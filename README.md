@@ -1,1 +1,1 @@
-# gitdemo
+cd dsgit statusgi
